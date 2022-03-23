@@ -1,0 +1,49 @@
+* learn loops and arrays:
+1. from javascript.info: sections 2.13, 5.4 and 5.5.
+
+* o the following assignments (push each assignment in separate Git repo):
+1. write a small web app that does the following:
+	- displays only the even numbers from 1 to 20.d
+	- the result should look like this: 2, 4, 6, ...
+	- hint: use string concatenation to accomplish the output format.
+	
+2. write a small web app that does the following:
+	- keeps showing the user a confirm dialog box as long as the user clicks Ok.
+	- when the user clicks Cancel it stops.
+	
+3. write a small web app that does the following:
+	- defines an array of 20 number (positive, negative and zeros) and displayes their average.
+	- you can define the array directly in the code and fill it with 20 numbers. (i.e. no need for user input)
+	- the result should look like this: "The average is (average)".
+	
+4. write a small web app that does the following:
+	- defines an array of 20 number (positive, negative and zeros) and displayes the largest number.
+	- you can define the array directly in the code and fill it with 20 numbers. (i.e. no need for user input)
+	- the result should look like this: "The largest number is (the number)".
+	
+5. write a small web app that does the following:
+	- defines an array of numbers (positive, negative and zeros).
+	- for each number in the array display the following: "(number) is even||odd"
+	- example:
+		* array = [1, 10, 3]
+		* result should be:
+			1 is odd
+			10 is even
+			3 is odd
+			
+6. write a small web app that:
+	- asks the user to enter a number of any number of digits (strings and Cancel should be converted to 0).
+	- display whether this number is narcissistic or not.
+	
+7. write a small web ap that:
+	- defines an array of items (numbers, strings, etc.).
+	- finds and prints the most frequent item in the array.
+	- examples:
+		* [4, "g", 4, "test", 5, 6, "g", 4]: most frequent item is 4.
+		
+8. write a small web ap that:
+	- defines an array of items (numbers, strings, etc.).
+	- remove the duplicate items from the array.
+	
+* when you are done with the above, finish the Arrays and Loops sections in Codecademy:
+https://www.codecademy.com/courses/introduction-to-javascript
